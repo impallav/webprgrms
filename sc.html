@@ -1,0 +1,42 @@
+<html>
+<head>
+<style>
+body{
+transform:translateX(15%);
+}
+td,table{
+
+border-collapse:collapse;
+border:solid 2px pink;
+}
+td{
+padding:10px;
+text-allig:center;
+background-color:blue;
+}
+th{
+border:solid 2px pink;
+background-color:white;
+}
+
+</style>
+
+</head>
+
+<body>
+
+	<table style = "width=70%;height=100%">
+
+	<tr>
+		<th>number</th>
+		<th>square</th>
+		<th>cube</th>
+	</tr>
+<script>
+	for(var n=0;n<10;n++){
+	document.write("<tr><td>"+n+"</td><td>"+n*n+"</td><td>"+n*n*n+"</td></tr>");
+}
+</script>
+</table>
+</body>	
+</html>
