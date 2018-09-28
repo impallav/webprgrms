@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="student.css" ?>
+<students>
+
+<student>
+USN:<USN>4VV15CS001</USN>
+name:<Name>A</Name>
+<College>VVCE</College>
+<Branch>CSE</Branch>
+<email>aa@gmail.com</email>
+</student>
+
+
+<student>
+USN:<USN>4VV15CS002</USN>
+name:<Name>B</Name>
+<College>VVCE</College>
+<Branch>CSE</Branch>
+<email>bb@gmail.com</email>
+</student>
+
+
+<student>
+USN:<USN>4VV15CS003</USN>
+name:<Name>C</Name>
+<College>VVCE</College>
+<Branch>CSE</Branch>
+<email>cc@gmail.com</email>
+</student>
+</students>
+
